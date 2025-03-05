@@ -1,9 +1,5 @@
 # Poker Game
 
-#### Video demo: 
-
-#### Description
-
 ### Overview
 
 This project is a console-based implementation of the classic card game Blackjack, also known as 21. The game is designed to simulate a real-life casino experience, allowing players to bet chips, make strategic decisions, and play against a dealer. The game is implemented in Python using object-oriented programming principles, making it modular and easy to extend.
