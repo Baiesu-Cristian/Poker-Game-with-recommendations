@@ -38,8 +38,8 @@ This project is a console-based implementation of the classic card game Blackjac
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/yourusername/blackjack-game.git
-   cd blackjack-game
+   git clone https://github.com/yourusername/Poker-Game-with-recommendations.git
+   cd Poker-Game-with-recommendations
    ```
 
 2. **Install Dependencies**: 
